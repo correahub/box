@@ -30,7 +30,11 @@
   --paragraph-weight: Regular;
 }
 
-html{
+html {
   font-family: Alice;
   font-size: 62.5%;
+}
+body {
+  background: var(--background-color) url(/images/bg-image.png) center / cover
+    no-repeat;
 }
