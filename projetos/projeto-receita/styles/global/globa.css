@@ -6,6 +6,7 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 :root {
   /*Surface Colores*/
   --background-color: #573824;
@@ -27,4 +28,9 @@
   --paragraph-size: 1.6rem;
   --paragraph-line-height: 150%;
   --paragraph-weight: Regular;
+}
+
+html{
+  font-family: Alice;
+  font-size: 62.5%;
 }
