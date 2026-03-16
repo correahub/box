@@ -65,5 +65,5 @@
   font-weight: var(--paragraph-weigth);
   line-height: var(--paragraph-line-height);
   color: var(--text-color-secondary);
-  margin-bottom: 0.4rem;
+  margin-bottom: 1rem;
 }
