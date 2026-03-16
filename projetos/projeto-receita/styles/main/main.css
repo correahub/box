@@ -1,5 +1,5 @@
-@import url(/styles/global/globa.css);
-@import url(/styles/container/container.css);
+@import url(../global/globa.css);
+@import url(../container/container.css);
 
 .main-hero_div-img {
   text-align: center;

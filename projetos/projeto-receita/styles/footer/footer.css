@@ -1,5 +1,5 @@
-@import url(/styles/global/globa.css);
-@import url(/styles/container/container.css);
+@import url(../footer/footer.css);
+@import url(../container/container.css);
 
 #footer-hero {
   max-width: 80rem;
