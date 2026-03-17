@@ -1,0 +1,21 @@
+@import url(../global/global.css);
+@import url(../container/container.css);
+
+#main-hero {
+  max-width: 128rem;
+  width: 128rem;
+  background-color: var(--shape-transparency);
+
+  & > .photo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.4rem;
+    padding: 2.4rem 3.2rem;
+  }
+
+  img {
+    width: 28.6rem;
+    object-fit: cover;
+    flex: 1;
+  }
+}
