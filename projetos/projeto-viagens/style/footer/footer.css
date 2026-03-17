@@ -1,0 +1,33 @@
+@import url(../global/global.css);
+@import url(../container/container.css);
+
+#footer-hero {
+  width: 128rem;
+  padding: 2.4rem 3.2rem;
+  max-width: 128rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--shape-transparency);
+}
+.footer-hero_paragraph {
+  font-size: var(--Paragraph-sm-size);
+  font-weight: var(--paragraph-sm-weight);
+  line-height: var(--paragraph-sm-line);
+  color: var(--text-color-secondary);
+}
+.footer-hero_paragraph:hover {
+  color: var(--brand-color);
+}
+
+.footer-hero_div > a {
+  font-size: var(--Paragraph-sm-size);
+  font-weight: var(--paragraph-sm-weight);
+  line-height: var(--paragraph-sm-line);
+  color: var(--text-color-secondary);
+  padding: 0.4rem;
+  margin-right: 1.6rem;
+}
+.footer-hero_div > a:hover {
+  color: var(--brand-color);
+}
