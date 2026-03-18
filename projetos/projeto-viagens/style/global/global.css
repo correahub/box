@@ -39,3 +39,6 @@ html {
 --paragraph-sm-line: 170%;
 --paragraph-sm-weight: Regular
 }
+body{
+  background-color: var(--background-color);
+}

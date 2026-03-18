@@ -34,7 +34,7 @@
 
 .div-list-countries {
   max-width: 28rem;
-  width: 28rem;
+  flex: 1;
 }
 
 .div-list-countries_item {

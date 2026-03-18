@@ -2,7 +2,6 @@
 @import url(../container/container.css);
 
 #footer-hero {
-  width: 128rem;
   padding: 2.4rem 3.2rem;
   max-width: 128rem;
   display: flex;

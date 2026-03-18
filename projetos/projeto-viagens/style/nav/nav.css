@@ -3,7 +3,6 @@
 
 #nav-main {
   max-width: 128rem;
-  width: 128rem;
   background-color: var(--surface-color);
   display: flex;
   align-items: center;
