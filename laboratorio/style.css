@@ -1,0 +1,53 @@
+.divz {
+  margin: 0 auto;
+  border: 1px solid black;
+  display: grid;
+  grid-template-columns: 1fr ;
+  grid-template-rows: 100px;
+  padding: 1rem;
+}
+
+.header{
+  background-color: lime;
+}
+.main{
+  background-color: antiquewhite;
+  display: grid;
+  grid-template-columns: 300px 1fr;
+}
+.side{
+  background-color: bisque;
+}
+
+.cobre-command{
+  background-color: blueviolet;
+  display: grid;
+  grid-template-columns: 1fr ;
+  grid-template-rows: 50px;
+  text-align: center;
+}
+.guarda{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 80px;
+  text-align: center;
+  background-color: aqua;
+}
+.command{
+  background-color: brown;
+}
+.coomand2{
+
+  background-color: yellowgreen;
+
+}
+
+.coomand3{
+  background-color: yellow;
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  height: 50px;
+}
