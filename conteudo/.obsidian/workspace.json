@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20bfe8beddf1d886",
+        "id": "0cd0fc97c28c891b",
         "type": "tabs",
         "children": [
           {
-            "id": "82df760616a5fece",
+            "id": "a066f8e9df3edfb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Math/3.aritimética/4.potenciação/2.regras de sinais.md",
+                "file": "1.Math/3.aritimética/6.frações/1. O QUE É FRAÇÃO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.regras de sinais"
+              "title": "1. O QUE É FRAÇÃO"
             }
           }
         ]
@@ -183,33 +183,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "82df760616a5fece",
+  "active": "a066f8e9df3edfb7",
   "lastOpenFiles": [
-    "1.Math/3.aritimética/4.potenciação/1.O que é potenciação.md",
-    "1.Math/3.aritimética/3.mutiplicação/2.multiplos/2.Tipos de Multiplos.md",
-    "1.Math/3.aritimética/5.divisão/1.divisão/1. O que é divisão.md",
-    "1.Math/3.aritimética/3.mutiplicação/1.mutiplicação/2.regras de sinais.md",
-    "1.Math/3.aritimética/3.mutiplicação/1.mutiplicação/1.O que é multiplicação.md",
-    "1.Math/3.aritimética/3.mutiplicação/1.mutiplicação/0.tabuada.md",
-    "1.Math/3.aritimética/2.subtração/2.regras de sinais.md",
-    "1.Math/3.aritimética/2.subtração/1.Oque é subtração.md",
-    "1.Math/3.aritimética/1.adição/2.regras de sinais.md",
-    "1.Math/3.aritimética/1.adição/1.Oque é adição.md",
-    "1.Math/2.conjuntos/5.reais.md",
-    "1.Math/2.conjuntos/4.Irracionais.md",
-    "1.Math/3.aritimética/0pemdas/1.pemdas.md",
-    "1.Math/2.conjuntos/3.racionais q.md",
-    "1.Math/2.conjuntos/0.conjuntos.md",
-    "1.Math/1.Classes e ordens/0.resumo.md",
+    "1.Math/3.aritimética/6.frações/2.Um pouco melhor.md",
+    "1.Math/3.aritimética/6.frações/2.processo de simplificação.md",
+    "1.Math/3.aritimética/6.frações/1. O QUE É FRAÇÃO.md",
+    "1.Math/3.aritimética/6.frações/3.fracionaria.md",
+    "2.fronts/2-css/1.códigos/6.display/6.grid/3.filhos/1.grid-colums.md",
+    "2.fronts/2-css/1.códigos/6.display/6.grid/3.filhos/2.grid-row.md",
+    "2.fronts/2-css/1.códigos/6.display/6.grid/2.grid template/3.grid-template-areas.md",
+    "2.fronts/2-css/1.códigos/6.display/6.grid/3.filhos",
+    "2.fronts/2-css/1.códigos/6.display/6.grid/2.grid template/2.grid-template-row.md",
+    "2.fronts/2-css/1.códigos/6.display/6.grid/2.grid template/1.grid-template-columns.md",
+    "2.fronts/2-css/1.códigos/13.função()-css/16.repeat()/1.definição.md",
+    "2.fronts/2-css/1.códigos/5.Model box/1.Tipos de Medidas/7.fr.md",
+    "2.fronts/2-css/1.códigos/13.função()-css/16.repeat()",
+    "2.fronts/2-css/1.códigos/5.Model box/1.Tipos de Medidas/4.vw.md",
+    "2.fronts/2-css/1.códigos/5.Model box/1.Tipos de Medidas/6.fit-content.md",
+    "1.Math/3.aritimética/6.frações/6.porcenagem de qualquer valor.md",
+    "1.Math/3.aritimética/6.frações/5.tipos de frações.md",
+    "2.fronts/2-css/1.códigos/6.display/6.grid/2.grid template/Untitled",
+    "2.fronts/2-css/1.códigos/6.display/6.grid/1.explicação/1.Definição.md",
+    "2.fronts/2-css/1.códigos/6.display/6.grid/2.grid template",
+    "2.fronts/2-css/1.códigos/6.display/6.grid/1.explicação",
+    "2.fronts/2-css/1.códigos/6.display/6.grid",
+    "1.Math/3.aritimética/5.divisão/5.imc/1.IMC.md",
+    "1.Math/3.aritimética/5.divisão/5.Ano bissexto/1.Ano bissexto.md",
+    "1.Math/3.aritimética/5.divisão/5.imc",
+    "1.Math/3.aritimética/5.divisão/4.mdc/1.mdc.md",
+    "1.Math/3.aritimética/5.divisão/3.par ou impar/1.O que é par e impar.md",
+    "1.Math/3.aritimética/5.divisão/2.primos e compostos/2.tipos.md",
+    "1.Math/3.aritimética/4.potenciação/4.quadrado perfeito.md",
     "1.Math/1.Classes e ordens/2.ordens decimais.md",
-    "1.Math/1.Classes e ordens/1.Classes e ordens numéricas.md",
-    "1.Math/2.conjuntos/1.naturais N.md",
-    "1.Math/2.conjuntos/2.inteiros Z.md",
-    "2.fronts/2-css/1.códigos/13.função()-css/7.filter/0.filter.md",
-    "2.fronts/2-css/1.códigos/6.display/2.inline/1.inline.md",
-    "2.fronts/1-html/1.códigos/3-hr e br/2.br.md",
-    "2.fronts/1-html/1.códigos/2-p/1.p.md",
-    "2.fronts/1-html/1.códigos/4-imagens/1.img/1.(img) imagem.md",
-    "2.fronts/1-html/1.códigos/1-h1 ao h6/1.h1 ao h6.md"
+    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/6.first-child.md",
+    "2.fronts/2-css/1.códigos/5.Model box/9.box-shadows/1.box-shadow.md",
+    "2.fronts/2-css/1.códigos/5.Model box/7.Outeline/1.Outeline externo.md"
   ]
 }
